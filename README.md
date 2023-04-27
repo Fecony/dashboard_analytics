@@ -1,5 +1,7 @@
 # Web/Full Stack Home Assignment
 
+![image](https://user-images.githubusercontent.com/36774784/234942708-33ea12cc-d7de-4839-a1db-c35a426bb556.png)
+
 First run
 ----
 ```shell
